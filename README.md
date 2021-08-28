@@ -3,7 +3,7 @@ P2P leaning system for ukranian students (idea 1)
 
 ### &ensp; <b> Tech  </b>
 &ensp;&ensp;&ensp;&ensp; ● Server on C <br/>
-&ensp;&ensp;&ensp;&ensp; ● Client app on c with SDL <br/>
+&ensp;&ensp;&ensp;&ensp; ● Client app on C with SDL <br/>
 &ensp;&ensp;&ensp;&ensp; ● Web Application (front) <br/>
 
 ### &ensp; <b> Contributors  </b>
